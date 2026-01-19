@@ -1,0 +1,14 @@
+C:\Users\90262\Desktop\TopBrains\Stringmanip\bin\Debug\net10.0\StringManip.exe
+C:\Users\90262\Desktop\TopBrains\Stringmanip\bin\Debug\net10.0\StringManip.deps.json
+C:\Users\90262\Desktop\TopBrains\Stringmanip\bin\Debug\net10.0\StringManip.runtimeconfig.json
+C:\Users\90262\Desktop\TopBrains\Stringmanip\bin\Debug\net10.0\StringManip.dll
+C:\Users\90262\Desktop\TopBrains\Stringmanip\bin\Debug\net10.0\StringManip.pdb
+C:\Users\90262\Desktop\TopBrains\Stringmanip\obj\Debug\net10.0\StringManip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\TopBrains\Stringmanip\obj\Debug\net10.0\StringManip.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\TopBrains\Stringmanip\obj\Debug\net10.0\StringManip.AssemblyInfo.cs
+C:\Users\90262\Desktop\TopBrains\Stringmanip\obj\Debug\net10.0\StringManip.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\TopBrains\Stringmanip\obj\Debug\net10.0\StringManip.dll
+C:\Users\90262\Desktop\TopBrains\Stringmanip\obj\Debug\net10.0\refint\StringManip.dll
+C:\Users\90262\Desktop\TopBrains\Stringmanip\obj\Debug\net10.0\StringManip.pdb
+C:\Users\90262\Desktop\TopBrains\Stringmanip\obj\Debug\net10.0\StringManip.genruntimeconfig.cache
+C:\Users\90262\Desktop\TopBrains\Stringmanip\obj\Debug\net10.0\ref\StringManip.dll
