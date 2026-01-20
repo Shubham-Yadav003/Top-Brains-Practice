@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\obj\Debug\net10.0\LuckyDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\obj\Debug\net10.0\LuckyDraw.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\obj\Debug\net10.0\LuckyDraw.AssemblyInfo.cs
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\obj\Debug\net10.0\LuckyDraw.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\obj\Debug\net10.0\LuckyDraw.sourcelink.json
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\bin\Debug\net10.0\LuckyDraw.exe
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\bin\Debug\net10.0\LuckyDraw.deps.json
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\bin\Debug\net10.0\LuckyDraw.runtimeconfig.json
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\bin\Debug\net10.0\LuckyDraw.dll
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\bin\Debug\net10.0\LuckyDraw.pdb
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\obj\Debug\net10.0\LuckyDraw.dll
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\obj\Debug\net10.0\refint\LuckyDraw.dll
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\obj\Debug\net10.0\LuckyDraw.pdb
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\obj\Debug\net10.0\LuckyDraw.genruntimeconfig.cache
+C:\Users\90262\Desktop\TopBrains\LuckyDraw\obj\Debug\net10.0\ref\LuckyDraw.dll

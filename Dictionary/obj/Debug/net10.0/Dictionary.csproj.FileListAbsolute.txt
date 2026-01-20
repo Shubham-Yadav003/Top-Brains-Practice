@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\TopBrains\dictionary\obj\Debug\net10.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\TopBrains\dictionary\obj\Debug\net10.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\TopBrains\dictionary\obj\Debug\net10.0\Dictionary.AssemblyInfo.cs
+C:\Users\90262\Desktop\TopBrains\dictionary\obj\Debug\net10.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\TopBrains\dictionary\obj\Debug\net10.0\Dictionary.sourcelink.json
+C:\Users\90262\Desktop\TopBrains\dictionary\bin\Debug\net10.0\Dictionary.exe
+C:\Users\90262\Desktop\TopBrains\dictionary\bin\Debug\net10.0\Dictionary.deps.json
+C:\Users\90262\Desktop\TopBrains\dictionary\bin\Debug\net10.0\Dictionary.runtimeconfig.json
+C:\Users\90262\Desktop\TopBrains\dictionary\bin\Debug\net10.0\Dictionary.dll
+C:\Users\90262\Desktop\TopBrains\dictionary\bin\Debug\net10.0\Dictionary.pdb
+C:\Users\90262\Desktop\TopBrains\dictionary\obj\Debug\net10.0\Dictionary.dll
+C:\Users\90262\Desktop\TopBrains\dictionary\obj\Debug\net10.0\refint\Dictionary.dll
+C:\Users\90262\Desktop\TopBrains\dictionary\obj\Debug\net10.0\Dictionary.pdb
+C:\Users\90262\Desktop\TopBrains\dictionary\obj\Debug\net10.0\Dictionary.genruntimeconfig.cache
+C:\Users\90262\Desktop\TopBrains\dictionary\obj\Debug\net10.0\ref\Dictionary.dll

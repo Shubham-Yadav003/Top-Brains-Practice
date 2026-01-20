@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90262\\Desktop\\TopBrains\\StringManip\\StringManip.csproj": {}
+    "C:\\Users\\90262\\Desktop\\TopBrains\\dictionary\\Dictionary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90262\\Desktop\\TopBrains\\StringManip\\StringManip.csproj": {
+    "C:\\Users\\90262\\Desktop\\TopBrains\\dictionary\\Dictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90262\\Desktop\\TopBrains\\StringManip\\StringManip.csproj",
-        "projectName": "StringManip",
-        "projectPath": "C:\\Users\\90262\\Desktop\\TopBrains\\StringManip\\StringManip.csproj",
+        "projectUniqueName": "C:\\Users\\90262\\Desktop\\TopBrains\\dictionary\\Dictionary.csproj",
+        "projectName": "Dictionary",
+        "projectPath": "C:\\Users\\90262\\Desktop\\TopBrains\\dictionary\\Dictionary.csproj",
         "packagesPath": "C:\\Users\\90262\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90262\\Desktop\\TopBrains\\StringManip\\obj\\",
+        "outputPath": "C:\\Users\\90262\\Desktop\\TopBrains\\dictionary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\TopBrains\icomparable\obj\Debug\net10.0\IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\TopBrains\icomparable\obj\Debug\net10.0\IComparable.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\TopBrains\icomparable\obj\Debug\net10.0\IComparable.AssemblyInfo.cs
+C:\Users\90262\Desktop\TopBrains\icomparable\obj\Debug\net10.0\IComparable.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\TopBrains\icomparable\obj\Debug\net10.0\IComparable.sourcelink.json
+C:\Users\90262\Desktop\TopBrains\icomparable\bin\Debug\net10.0\IComparable.exe
+C:\Users\90262\Desktop\TopBrains\icomparable\bin\Debug\net10.0\IComparable.deps.json
+C:\Users\90262\Desktop\TopBrains\icomparable\bin\Debug\net10.0\IComparable.runtimeconfig.json
+C:\Users\90262\Desktop\TopBrains\icomparable\bin\Debug\net10.0\IComparable.dll
+C:\Users\90262\Desktop\TopBrains\icomparable\bin\Debug\net10.0\IComparable.pdb
+C:\Users\90262\Desktop\TopBrains\icomparable\obj\Debug\net10.0\IComparable.dll
+C:\Users\90262\Desktop\TopBrains\icomparable\obj\Debug\net10.0\refint\IComparable.dll
+C:\Users\90262\Desktop\TopBrains\icomparable\obj\Debug\net10.0\IComparable.pdb
+C:\Users\90262\Desktop\TopBrains\icomparable\obj\Debug\net10.0\IComparable.genruntimeconfig.cache
+C:\Users\90262\Desktop\TopBrains\icomparable\obj\Debug\net10.0\ref\IComparable.dll

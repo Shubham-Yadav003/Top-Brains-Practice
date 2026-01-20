@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\TopBrains\textmanip\obj\Debug\net10.0\TextManip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\TopBrains\textmanip\obj\Debug\net10.0\TextManip.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\TopBrains\textmanip\obj\Debug\net10.0\TextManip.AssemblyInfo.cs
+C:\Users\90262\Desktop\TopBrains\textmanip\obj\Debug\net10.0\TextManip.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\TopBrains\textmanip\obj\Debug\net10.0\TextManip.sourcelink.json
+C:\Users\90262\Desktop\TopBrains\textmanip\bin\Debug\net10.0\TextManip.exe
+C:\Users\90262\Desktop\TopBrains\textmanip\bin\Debug\net10.0\TextManip.deps.json
+C:\Users\90262\Desktop\TopBrains\textmanip\bin\Debug\net10.0\TextManip.runtimeconfig.json
+C:\Users\90262\Desktop\TopBrains\textmanip\bin\Debug\net10.0\TextManip.dll
+C:\Users\90262\Desktop\TopBrains\textmanip\bin\Debug\net10.0\TextManip.pdb
+C:\Users\90262\Desktop\TopBrains\textmanip\obj\Debug\net10.0\TextManip.dll
+C:\Users\90262\Desktop\TopBrains\textmanip\obj\Debug\net10.0\refint\TextManip.dll
+C:\Users\90262\Desktop\TopBrains\textmanip\obj\Debug\net10.0\TextManip.pdb
+C:\Users\90262\Desktop\TopBrains\textmanip\obj\Debug\net10.0\TextManip.genruntimeconfig.cache
+C:\Users\90262\Desktop\TopBrains\textmanip\obj\Debug\net10.0\ref\TextManip.dll
