@@ -2,8 +2,8 @@
 {
     public static void Main()
     {
-        Console.WriteLine("Enter a unique string");
-        string str = Console.ReadLine();
+        // Console.WriteLine("Enter a unique string");
+        string str = " llapppptop bag ";
 
         // case1: remove consequtive duplicates
         for (int i = 0; i < str.Length - 1; i++)
