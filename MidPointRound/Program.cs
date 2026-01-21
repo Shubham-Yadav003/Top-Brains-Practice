@@ -3,7 +3,7 @@
     public static void Main()
     {
         double output = CalculateCircleArea();
-        Console.WriteLine($"Area: {output}");
+        Console.WriteLine(output);
     }
 
     public static double CalculateCircleArea()
