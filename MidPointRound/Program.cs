@@ -2,23 +2,22 @@
 {
     public static void Main()
     {
-
-        double output = helper();
-        Console.WriteLine($"Output is: {output}");
-
+        double output = CalculateCircleArea();
+        Console.WriteLine($"Area: {output}");
     }
 
-    public static double helper()
+    public static double CalculateCircleArea()
     {
-        double val = double.Parse(Console.ReadLine());
-        if (radius < 0 || radius > double.MaxValue)
+        double radius = double.Parse(Console.ReadLine());
+
+        if (radius < 0 || radius > 1e6)
         {
             Console.WriteLine("Invalid radius");
-            return;
+            return 0;
         }
 
-        double res = Math.Round(3.14 * val * val, MidpointRounding.AwayFromZero);
-        return res;
-
+        double area = Math.PI * radius * radius;
+        double rounded = Math.Round(area, 2, MidpointRounding.AwayFromZero);
+        return rounded;
     }
 }
