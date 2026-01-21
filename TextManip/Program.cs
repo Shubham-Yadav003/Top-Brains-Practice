@@ -2,54 +2,47 @@
 {
     public static void Main()
     {
-        // Console.WriteLine("Enter a unique string");
         string str = " llapppptop bag ";
+        string result = CleanupInventoryName(str);
+       
+        Console.WriteLine($"Output: \"{result}\"");
+    }
 
-        // case1: remove consequtive duplicates
-        for (int i = 0; i < str.Length - 1; i++)
+    public static string CleanupInventoryName(string input)
+    {
+        // Step 1: Trim extra spaces
+        string str = input.Trim();
+
+        // Step 2: Remove consecutive duplicate characters
+        string noDuplicates = "";
+        for (int i = 0; i < str.Length; i++)
         {
-            if (str[i] == str[i + 1])
+            if (i == 0 || str[i] != str[i - 1])
             {
-                str = str.Remove(i, 1);
-                i--;
+                noDuplicates += str[i];
             }
         }
 
-        // trim extra space
-        str = str.Trim();
-        str = str.ToLower();
+        // Step 3: Remove extra spaces between words (keep only single spaces)
+        string cleaned = "";
+        for (int i = 0; i < noDuplicates.Length; i++)
+        {
+            if (noDuplicates[i] == ' ')
+            {
+                if (i == 0 || noDuplicates[i - 1] != ' ')
+                {
+                    cleaned += ' ';
+                }
+            }
+            else
+            {
+                cleaned += noDuplicates[i];
+            }
+        }
 
-        // ToTitle case
-        //     int idx = 0;
-        //     string res = "";
-        //     while (idx < str.Length)
-        //     {
-        //         if (idx == 0)
-        //         {
-        //             res += char.ToUpper(str[idx]);
-        //             idx++;
-        //         }
-        //         while (idx < str.Length && str[idx] == ' ') { idx++; }
+        // Step 4: Convert to TitleCase (using built-in)
+        string titleCase = System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(cleaned.ToLower());
 
-        //         if (idx < str.Length && str[idx] != ' ' && idx > 0 && str[idx - 1] == ' ')
-        //         {
-        //             res += ' ';
-        //             res += char.ToUpper(str[idx]);
-        //             idx++;
-        //         }
-
-        //         else if (idx < str.Length)
-        //         {
-        //             res += str[idx];
-        //             idx++;
-        //         }
-        //     }
-
-        //     Console.WriteLine($"RESULT IS: {res}");
-
-        // ***************//
-        // using inbuilt 
-        string res = System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(str.ToLower());
-        Console.WriteLine($"RESULT IS: {res}");
+        return titleCase;
     }
 }
