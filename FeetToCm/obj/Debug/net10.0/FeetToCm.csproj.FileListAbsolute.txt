@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\TopBrains\FeetToCm\obj\Debug\net10.0\FeetToCm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\TopBrains\FeetToCm\obj\Debug\net10.0\FeetToCm.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\TopBrains\FeetToCm\obj\Debug\net10.0\FeetToCm.AssemblyInfo.cs
+C:\Users\90262\Desktop\TopBrains\FeetToCm\obj\Debug\net10.0\FeetToCm.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\TopBrains\FeetToCm\obj\Debug\net10.0\FeetToCm.sourcelink.json
+C:\Users\90262\Desktop\TopBrains\FeetToCm\bin\Debug\net10.0\FeetToCm.exe
+C:\Users\90262\Desktop\TopBrains\FeetToCm\bin\Debug\net10.0\FeetToCm.deps.json
+C:\Users\90262\Desktop\TopBrains\FeetToCm\bin\Debug\net10.0\FeetToCm.runtimeconfig.json
+C:\Users\90262\Desktop\TopBrains\FeetToCm\bin\Debug\net10.0\FeetToCm.dll
+C:\Users\90262\Desktop\TopBrains\FeetToCm\bin\Debug\net10.0\FeetToCm.pdb
+C:\Users\90262\Desktop\TopBrains\FeetToCm\obj\Debug\net10.0\FeetToCm.dll
+C:\Users\90262\Desktop\TopBrains\FeetToCm\obj\Debug\net10.0\refint\FeetToCm.dll
+C:\Users\90262\Desktop\TopBrains\FeetToCm\obj\Debug\net10.0\FeetToCm.pdb
+C:\Users\90262\Desktop\TopBrains\FeetToCm\obj\Debug\net10.0\FeetToCm.genruntimeconfig.cache
+C:\Users\90262\Desktop\TopBrains\FeetToCm\obj\Debug\net10.0\ref\FeetToCm.dll

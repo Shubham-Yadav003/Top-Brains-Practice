@@ -18,7 +18,7 @@ class Program
         {
             if (dict.ContainsKey(val))
             {
-                res += dict[val];
+                res += dict[val]; // value
             }
         }
         Console.WriteLine($"Sum is: {res}");

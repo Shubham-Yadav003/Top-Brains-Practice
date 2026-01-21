@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\TopBrains\midpointround\obj\Debug\net10.0\MidPointRound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\TopBrains\midpointround\obj\Debug\net10.0\MidPointRound.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\TopBrains\midpointround\obj\Debug\net10.0\MidPointRound.AssemblyInfo.cs
+C:\Users\90262\Desktop\TopBrains\midpointround\obj\Debug\net10.0\MidPointRound.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\TopBrains\midpointround\obj\Debug\net10.0\MidPointRound.sourcelink.json
+C:\Users\90262\Desktop\TopBrains\midpointround\bin\Debug\net10.0\MidPointRound.exe
+C:\Users\90262\Desktop\TopBrains\midpointround\bin\Debug\net10.0\MidPointRound.deps.json
+C:\Users\90262\Desktop\TopBrains\midpointround\bin\Debug\net10.0\MidPointRound.runtimeconfig.json
+C:\Users\90262\Desktop\TopBrains\midpointround\bin\Debug\net10.0\MidPointRound.dll
+C:\Users\90262\Desktop\TopBrains\midpointround\bin\Debug\net10.0\MidPointRound.pdb
+C:\Users\90262\Desktop\TopBrains\midpointround\obj\Debug\net10.0\MidPointRound.dll
+C:\Users\90262\Desktop\TopBrains\midpointround\obj\Debug\net10.0\refint\MidPointRound.dll
+C:\Users\90262\Desktop\TopBrains\midpointround\obj\Debug\net10.0\MidPointRound.pdb
+C:\Users\90262\Desktop\TopBrains\midpointround\obj\Debug\net10.0\MidPointRound.genruntimeconfig.cache
+C:\Users\90262\Desktop\TopBrains\midpointround\obj\Debug\net10.0\ref\MidPointRound.dll
