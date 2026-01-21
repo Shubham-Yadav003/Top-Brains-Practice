@@ -33,9 +33,9 @@ class StringManip
                 result += ch;
             }
         }
-        Console.WriteLine($"Input1: {input1}");
-        Console.WriteLine($"Input2: {input2}");
-        Console.WriteLine($"Result: {result}");
+        Console.WriteLine($"{input1}");
+        Console.WriteLine($"{input2}");
+        Console.WriteLine($"{result}");
     }
 
     public static bool IsVowel(char ch)
