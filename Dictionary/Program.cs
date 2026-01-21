@@ -4,14 +4,14 @@ class Program
     public static void Main()
     {
         Dictionary<int, int> dict = new Dictionary<int, int>();
-        dict.Add(1, 10000);
-        dict.Add(2, 20000);
-        dict.Add(3, 30000);
+        dict.Add(1, 20000);
+        dict.Add(4, 40000);
+        dict.Add(5, 15000);
 
         List<int> list = new List<int>();
         list.Add(1);
-        list.Add(2);
-        list.Add(3);
+        list.Add(4);
+        list.Add(5);
 
         int res = 0;
         foreach (var val in list)
