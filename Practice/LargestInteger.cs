@@ -7,18 +7,26 @@ class Program
         int b = int.Parse(Console.ReadLine());
         int c = int.Parse(Console.ReadLine());
 
+        int largest = FindLargest(a, b, c);
+        Console.WriteLine(largest);
+    }
+
+    // Method to find the largest of three integers
+    // Input: a, b, c (integers in range -1e9 to 1e9)
+    // Output: largest integer among the three
+    public static int FindLargest(int a, int b, int c)
+    {
         if (a > b && a > c)
         {
-            Console.WriteLine(a);
+            return a;
         }
         else if (b > a && b > c)
         {
-            Console.WriteLine(b);
+            return b;
         }
         else
         {
-            Console.WriteLine(c);
+            return c;
         }
-
     }
 }
