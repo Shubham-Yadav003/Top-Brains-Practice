@@ -2,10 +2,10 @@ class Program2
 {
     public static void Main()
     {
-        Console.WriteLine("Enter a start number:");
+
         int start = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("Enter a end number:");
+
         int end = int.Parse(Console.ReadLine());
 
         //formula -> Sum of(i^2) == sum of(i) * sum of(i);
