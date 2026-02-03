@@ -1,0 +1,18 @@
+# Compiled binaries
+*.exe
+*.dll
+*.pdb
+
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code files
+.vscode/
