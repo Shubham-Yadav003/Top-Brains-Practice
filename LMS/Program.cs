@@ -56,6 +56,7 @@ public class Catalog<T> where T : Book
 
     public IEnumerable<T> FindBooks(Func<T,bool> predicate)
     {
+        
         return _items.Where(predicate);
     }
 
